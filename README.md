@@ -1,4 +1,4 @@
-<h1 align="center">‧ SHANA - BOT - MD  ‧
+<h1 align="center">‧ NEXUS - BOT - MD  ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/bc6464a25b50bf28bfa49.png">
