@@ -107,6 +107,6 @@ href="https://github.com/Jxtxn17"><img src="https://github.com/Jxtxn17.png" widt
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Daniel🇦🇱"/></a>
+<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="EDER"/></a>
 
-`© MonkiBot / By Daniel 🇦🇱`
+`© *Nexus bot* / By Eder`
