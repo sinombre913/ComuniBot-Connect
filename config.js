@@ -30,12 +30,12 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = "" 
 
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰
-//Agrega el Idioma que quieres que tenga DokiBot
+//Agrega el Idioma que quieres que tenga Nexus bot
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português
 //  ar = عرب 
 
-global.lenguajeGB = es  //Idioma de DokiBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de Nexus bot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
