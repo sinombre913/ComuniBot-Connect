@@ -99,7 +99,7 @@ global.author = 'By Sopi x Daniel'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = 'Eder'
+global.lb = 'nexus'
 global.vs = '1.5.5'
 global.yt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
 global.ig = 'https://www.instagram.com/eder_basto2005'
