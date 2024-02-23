@@ -1,7 +1,7 @@
 <h1 align="center">‧ NEXUS - BOT - MD  ‧
 </p>
 <p>
-        <img src= "https://telegra.ph/file/bc6464a25b50bf28bfa49.png">
+        <img src= "https://telegra.ph/file/e21e284015507189e5906.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
