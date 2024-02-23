@@ -99,10 +99,10 @@ global.author = 'By Sopi x Daniel'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = 'Shana'
+global.lb = 'Eder'
 global.vs = '1.5.5'
 global.yt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
-global.ig = 'https://www.instagram.com/monki_bot'
+global.ig = 'https://www.instagram.com/eder_basto2005'
 global.md = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
 global.fb = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
 
@@ -114,7 +114,7 @@ global.nnnt2 = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' // Grupo 
 global.nnntt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo COL 3
 global.nnnttt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Canal MonkiBot
 global.nnntttt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/51906641131' //Dudas? escríbeme...
+global.asistencia = 'wa.me/573027866596' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
