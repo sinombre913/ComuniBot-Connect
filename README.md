@@ -107,6 +107,6 @@ href="https://github.com/Jxtxn17"><img src="https://github.com/Jxtxn17.png" widt
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/DanielDiod"><img src="https://telegra.ph/file/7f074966704a2ee5d1f33.jpg" width="300" height="300" alt="EDER"/></a>
+<a href="https://github.com/DanielDiod"><img src="https://github.com/WOTCHITO.png" width="300" height="300" alt="EDER"/></a>
 
 `© *Nexus bot* / By Eder`
