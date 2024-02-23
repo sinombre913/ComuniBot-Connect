@@ -101,19 +101,19 @@ global.author = 'By Sopi x Daniel'
 
 global.lb = 'Shana'
 global.vs = '1.5.5'
-global.yt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
+global.yt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
 global.ig = 'https://www.instagram.com/monki_bot'
-global.md = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.fb = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
+global.md = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
+global.fb = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n'
 
-global.nna = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Actualización, información sobre el bot
-global.nn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo del Colaboracion
-global.nnnt2 = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' // Grupo COL 2
-global.nnntt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Canal MonkiBot
-global.nnntttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo ayuda sobre el bot
+global.nna = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Actualización, información sobre el bot
+global.nn = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo 1
+global.nnn = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo 2
+global.nnnt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo del Colaboracion
+global.nnnt2 = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' // Grupo COL 2
+global.nnntt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo COL 3
+global.nnnttt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Canal MonkiBot
+global.nnntttt = 'https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n' //Grupo ayuda sobre el bot
 global.asistencia = 'wa.me/51906641131' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
