@@ -99,7 +99,7 @@ npm start
 ---------
 
 ## `Colaboradores` 
-<a href="https://github.com/Sopiix"><img src="https://github.com/Sopiix.png" width="200" height="200" alt="Sopi<3"/></a>
+<a href="https://github.com/Sopiix"><img src="https://github.com/WOTCHITO.png" width="200" height="200" alt="Sopi<3"/></a>
 <a
 href="https://github.com/Jxtxn17"><img src="https://github.com/Jxtxn17.png" width="200" height="200" alt="Jxtxn17"/></a>
 
