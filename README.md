@@ -95,7 +95,7 @@ npm start
 
 - Canal Oficial Del Bot
 
-* <a href="https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://whatsapp.com/channel/0029VaF00bv4o7qSseKNrQ1n"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ---------
 
 ## `Colaboradores` 
